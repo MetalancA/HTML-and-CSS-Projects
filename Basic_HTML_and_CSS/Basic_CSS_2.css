@@ -1,0 +1,91 @@
+/* The p through h4 style the beginining. The style in img sytles the image. */
+p {
+	color: rgb(250,250,250);
+	background-color: rgb(7,7,7);
+	text-align: center;
+	font-size: 40px;
+	font: Verdana;
+	font-weight: 700;
+	text-shadow: 2px 2px 8px #B7FCF9;
+}
+
+p:hover {
+	background-color: white;
+	color: white;
+}
+
+h1 {
+	color: rgb(190,190,190);
+	background-color: rgb(70,70,70);
+	text-align: center;
+	font-size: 40px;
+	font: Verdana;
+	font-weight: 700;
+	text-shadow: 2px 2px 8px #B7FCF9;
+}
+
+h1:hover {
+	background-color: white;
+	color: white;
+}
+
+.My_Style {
+	color: rgb(120,120,120);
+	background-color: rgb(150,150,150);
+	text-align: center;
+	font-size: 40px;
+	font: Verdana;
+	font-weight: 700;
+	text-shadow: 2px 2px 8px #8DFCF8;
+}
+.My_Style:hover {
+	background-color: white;
+	color: white;
+}
+
+h3 {
+	color: rgb(60,60,60);
+	background-color: rgb(200,200,200);
+	text-align: center;
+	font-size: 40px;
+	font: Verdana;
+	font-weight: 700;
+	text-shadow: 2px 2px 8px #5BFCF6;
+}
+
+h3:hover {
+	background-color: white;
+	color: white;
+}
+
+h4 {
+	color: rgb(1,1,1);
+	background-color: rgb(250,250,250);
+	text-align: center;
+	font-size: 40px;
+	font: Verdana;
+	font-weight: 700;
+	text-shadow: 2px 2px 8px #18DBD5;
+}
+
+h4:hover {
+	background-color: white;
+	color: white;
+}
+
+
+img {
+	display: block;
+	border-radius: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 50%;
+	box-shadow: 5px 5px 5px #18DBD5;
+}
+
+img:hover {
+	background-color: white;
+	color: white;
+}
+	

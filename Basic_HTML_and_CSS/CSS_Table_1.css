@@ -1,0 +1,23 @@
+table {
+	border: 1px solid black;
+}
+
+td:hover {
+	background-color: rgb(145,245,241);
+	color: white;
+}
+
+ tr, th {
+	 background-color: rgb(102,249,185);
+	 color: black;
+	 text-align: center;
+	 height: 50px;
+	 width: 100px;
+ }
+ 
+ tr, td {
+	 background-color: rgb(102,117,249);
+	 color: white;
+ }
+	 
+	 

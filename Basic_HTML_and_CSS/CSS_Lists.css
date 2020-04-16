@@ -1,0 +1,16 @@
+ol {
+	list-style-position: inside;
+	list-style-type: upper-roman;
+	background: rgb(3,17,142);
+	color: white;
+}
+
+li:hover {
+	background-color: black;
+	color: white;
+}
+
+ul {
+	list-style-position: inside;
+	background: rgb(142,3,124);
+}
